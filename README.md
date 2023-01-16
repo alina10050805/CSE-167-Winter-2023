@@ -15,6 +15,6 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 ## Homeworks
 |       |Subject    |Requirement   |GitHub Link   |Feedback   |Score  |
 |:------|:----------|:-------------|:-------------|:----------|:------|
-|HW 0 |COMPILATION |[Requirement]|[GitHub] |--  |--    |
+|HW 0 |COMPILATION |[Requirement](./HW/HW0.md)|[GitHub] |--  |--    |
 
 ## Slides
