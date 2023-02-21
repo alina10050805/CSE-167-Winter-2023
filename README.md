@@ -21,3 +21,33 @@ Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
 |HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |--  |--    |
 
 ## Slides
+|       |Subject    |Vedio Subject  |Slide   |
+|:------|:----------|:-------------|:-------------|
+|Lecture 1  |Course Overview    |MOTIVATION & COURSE OUTLINE AND LOGISTICS & HISTORY   |[Slide](./Slides/overview_ucsd.pdf)    |
+|Lecture 2  |Basic Math    |VECTORS AND DOT PRODUCTS & CROSS PRODUCTS & CREATING A COORDINATE FRAME & MATRICES    |[Slide](./Slides/overview_ucsd.pdf)    |
+|Lecture 3  |Basic Math    |VECTORS AND DOT PRODUCTS & CROSS PRODUCTS & CREATING A COORDINATE FRAME & MATRICES    |[Slide](./Slides/overview_ucsd.pdf)    |
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Subject</th>
+            <th>Vedio Subject</th>
+            <th>Slide</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=3>Lecture 1</td>
+            <td rowspan=3>Course Overview</td>
+            <td>MOTIVATION</td>
+            <td rowspan=3><a href="./Slides/overview_ucsd.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>COURSE OUTLINE AND LOGISTICS</td>
+        </tr>
+        <tr>
+            <td>HISTORY</td>
+        </tr>
+    </tbody>
+</table>
