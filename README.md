@@ -21,16 +21,11 @@ Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
 |HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |--  |--    |
 
 ## Slides
-|       |Subject    |Vedio Subject  |Slide   |
-|:------|:----------|:-------------|:-------------|
-|Lecture 1  |Course Overview    |MOTIVATION & COURSE OUTLINE AND LOGISTICS & HISTORY   |[Slide](./Slides/overview_ucsd.pdf)    |
-|Lecture 2  |Basic Math    |VECTORS AND DOT PRODUCTS & CROSS PRODUCTS & CREATING A COORDINATE FRAME & MATRICES    |[Slide](./Slides/overview_ucsd.pdf)    |
-|Lecture 3  |Basic Math    |VECTORS AND DOT PRODUCTS & CROSS PRODUCTS & CREATING A COORDINATE FRAME & MATRICES    |[Slide](./Slides/overview_ucsd.pdf)    |
-
 <table>
     <thead>
         <tr>
-            <th></th>
+            <th>Unit</th>
+            <th>Lecture</th>
             <th>Subject</th>
             <th>Vedio Subject</th>
             <th>Slide</th>
@@ -38,16 +33,128 @@ Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
     </thead>
     <tbody>
         <tr>
+            <td rowspan=7>Unit 0</td>
             <td rowspan=3>Lecture 1</td>
             <td rowspan=3>Course Overview</td>
-            <td>MOTIVATION</td>
+            <td>Motivation</td>
             <td rowspan=3><a href="./Slides/overview_ucsd.pdf">Slide</a></td>
         </tr>
         <tr>
-            <td>COURSE OUTLINE AND LOGISTICS</td>
+            <td>Course Outline and Logistics</td>
         </tr>
         <tr>
-            <td>HISTORY</td>
+            <td>History</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Lecture 2</td>
+            <td rowspan=4>Basic Math</td>
+            <td>Vectors and Dot Products</td>
+            <td rowspan=4><a href="./Slides/slides_basicmath.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Cross Products</td>
+        </tr>
+        <tr>
+            <td>Creating a Coordinate Frame</td>
+        </tr>
+        <tr>
+            <td>Matrices</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=10>Unit 1</td>
+            <td rowspan=3>Lecture 3</td>
+            <td rowspan=3>Transforms 1</td>
+            <td>Basic 2D Transforms</td>
+            <td rowspan=3><a href="./Slides/slides_transforms1.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Composing Transforms</td>
+        </tr>
+        <tr>
+            <td>3D Rotations</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Lecture 4</td>
+            <td rowspan=4>Transforms 2 </td>
+            <td>Homogeneous Coordinates</td>
+            <td rowspan=4><a href="./Slides/slides_transforms2.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Transforming Normals</td>
+        </tr>
+        <tr>
+            <td>Rotations and Coordinate Frames</td>
+        </tr>
+        <tr>
+            <td>Derivation of gluLookAt</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Lecture 5</td>
+            <td rowspan=3>Viewing</td>
+            <td>Orthographic Projection</td>
+            <td rowspan=3><a href="./Slides/slides_viewing.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Perspective Projection</td>
+        </tr>
+        <tr>
+            <td>gluPerspective</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=14>Unit 2</td>
+            <td rowspan=5>Lecture 6</td>
+            <td rowspan=5>OpenGL 1</td>
+            <td>Overview</td>
+            <td rowspan=5><a href="./Slides/ucsdopengl1.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Buffers and Matrices</td>
+        </tr>
+        <tr>
+            <td>Window System Interaction and Callbacks</td>
+        </tr>
+        <tr>
+            <td>Drawing</td>
+        </tr>
+        <tr>
+            <td>Initializing Shaders</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Lecture 7</td>
+            <td rowspan=4>OpenGL Shading</td>
+            <td>Motivation</td>
+            <td rowspan=4><a href="./Slides/ucsdopengl2.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Gouraud and Phong</td>
+        </tr>
+        <tr>
+            <td>Lighting and Shading</td>
+        </tr>
+        <tr>
+            <td>Fragment Shader</td>
+        </tr>
+        <tr>
+            <td rowspan=5>Lecture 8</td>
+            <td rowspan=5>OpenGL 2</td>
+            <td>Geometry</td>
+            <td rowspan=5><a href="./Slides/ucsdopengl3.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Matrix Stacks</td>
+        </tr>
+        <tr>
+            <td>Z-Buffer</td>
+        </tr>
+         <tr>
+            <td>Animation</td>
+        </tr>
+         <tr>
+            <td>Texture</td>
         </tr>
     </tbody>
 </table>
