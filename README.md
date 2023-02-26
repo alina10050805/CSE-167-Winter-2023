@@ -157,4 +157,37 @@ Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
             <td>Texture</td>
         </tr>
     </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=8>Unit 3</td>
+            <td rowspan=4>Lecture 9</td>
+            <td rowspan=4>Raytracing 1</td>
+            <td>Ray Casting</td>
+            <td rowspan=4><a href="./Slides/slides_raytrace1.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Shadows and Reflections</td>
+        </tr>
+        <tr>
+            <td>Intersections</td>
+        </tr>
+        <tr>
+            <td>Optimizations</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Lecture 10</td>
+            <td rowspan=4>Raytracing 2</td>
+            <td>Camera Ray Casting</td>
+            <td rowspan=4><a href="./Slides/slides_raytrace2.pdf">Slide</a></td>
+        </tr>
+        <tr>
+            <td>Ray-Object Intersections</td>
+        </tr>
+        <tr>
+            <td>Lighting Calculations</td>
+        </tr>
+        <tr>
+            <td>Recursive Ray Tracing</td>
+        </tr>
+    </tbody>
 </table>
