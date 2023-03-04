@@ -18,9 +18,9 @@ Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
 |       |Subject    |Requirement   |Subbmition   |Score   |
 |:------|:----------|:-------------|:-------------|:----------|
 |HW 0 |Compilation |[Requirement](./HW/HW0.md)|[GitHub] |10/10  |
-|HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |--  |
-|HW 2 |OpenGL |[Requirement]|[GitHub] |--  |
-|HW 3 |Bezier and B-Spline Curves |[Requirement]|[GitHub] |--  |
+|HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |30/30  |
+|HW 2 |OpenGL |[Requirement]|[GitHub] |50/50 (Milestone 10/10)  |
+|HW 3 |Bezier and B-Spline Curves |[Requirement]|[GitHub] |40/40  |
 |HW 4 |Ray Tracing |[Requirement]|[GitHub] |--  |
 
 ## Slides
