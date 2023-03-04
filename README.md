@@ -15,10 +15,13 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
 
 ## Homeworks
-|       |Subject    |Requirement   |Subbmition   |Score   |Score  |
-|:------|:----------|:-------------|:-------------|:----------|:------|
-|HW 0 |COMPILATION |[Requirement](./HW/HW0.md)|[GitHub] |10/10  |--    |
-|HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |--  |--    |
+|       |Subject    |Requirement   |Subbmition   |Score   |
+|:------|:----------|:-------------|:-------------|:----------|
+|HW 0 |Compilation |[Requirement](./HW/HW0.md)|[GitHub] |10/10  |
+|HW 1 |Transformations |[Requirement](./HW/HW1.md)|[GitHub] |--  |
+|HW 2 |OpenGL |[Requirement]|[GitHub] |--  |
+|HW 3 |Bezier and B-Spline Curves |[Requirement]|[GitHub] |--  |
+|HW 4 |Ray Tracing |[Requirement]|[GitHub] |--  |
 
 ## Slides
 <table>
