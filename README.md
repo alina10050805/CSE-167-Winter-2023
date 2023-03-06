@@ -14,6 +14,7 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 
 Course Website: https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi23/index.html
 
+
 ## Homeworks
 |       |Subject    |Requirement   |Subbmition   |Score   |
 |:------|:----------|:-------------|:-------------|:----------|
